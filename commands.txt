@@ -1,0 +1,5 @@
+https://github.com/nageshReddy25/gitHub-TestRepo.git
+
+https://github.com/nageshReddy25/gitHub-TestRepo.git
+
+local path : C:\Users\NREDDY2\Documents\GitHub\gitHub-TestRepo
